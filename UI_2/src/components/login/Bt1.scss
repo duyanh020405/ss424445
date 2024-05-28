@@ -1,0 +1,35 @@
+.all{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    .input_email{
+        height: 30px;
+        width: 300px;
+    }
+    img{
+        width: 300px;
+        height: 400px;
+    }
+    .for{
+    border: 1px solid black;
+    width: 350px;
+    height: 400px;
+    padding-left: 20px;
+    }
+    .forgot{
+        padding-left: 150px    }
+    .login{
+        height: 35px;
+        width: 200px;
+        background-color: rgb(143, 175, 233);
+        border-radius: 10px;
+        margin-left: 60px;
+    }
+    .login2{
+        height: 35px;
+        width: 200px;
+        margin-left: 60px;
+    }
+
+    
+}
